@@ -1,0 +1,14 @@
+{
+  "name": "cloudflare-api-client",
+  "version": "1.0.0",
+  "description": "Node client and CLI for the Cloudflare REST API (OpenAPI)",
+  "type": "module",
+  "main": "src/client.js",
+  "bin": { "cf": "src/cli.js" },
+  "scripts": {
+    "start": "node --env-file-if-exists=.env src/cli.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=20.6" },
+  "license": "MIT"
+}
