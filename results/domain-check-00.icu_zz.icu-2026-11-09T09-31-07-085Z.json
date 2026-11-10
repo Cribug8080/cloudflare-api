@@ -1,0 +1,7792 @@
+{
+  "description": "Cloudflare Registrar domain-check for 00.icu to zz.icu (1296 domains, complete)",
+  "startedAt": "2026-11-09T09:31:07.088Z",
+  "savedAt": "2026-11-09T09:33:17.996Z",
+  "first": "00.icu",
+  "last": "zz.icu",
+  "tlds": [
+    "icu"
+  ],
+  "requested": 1296,
+  "checked": 1296,
+  "complete": true,
+  "availableCount": 0,
+  "results": [
+    {
+      "name": "00.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "01.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "02.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "03.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "04.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "05.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "06.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "07.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "08.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "09.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0a.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0b.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0c.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0d.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0e.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0f.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0g.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0h.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0i.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0j.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0k.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0l.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0m.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0n.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0o.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0p.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0q.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0r.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0s.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0t.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0u.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0v.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0w.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0x.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0y.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0z.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "10.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "11.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "12.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "13.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "14.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "15.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "16.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "17.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "18.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "19.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1a.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1b.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1c.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1d.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1e.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1f.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1g.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1h.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1i.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1j.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1k.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1l.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1m.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1n.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1o.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1p.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1q.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1r.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1s.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1t.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1u.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1v.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1w.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1x.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1y.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1z.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "20.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "21.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "22.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "23.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "24.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "25.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "26.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "27.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "28.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "29.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2a.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2b.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2c.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2d.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2e.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2f.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2g.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2h.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2i.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2j.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2k.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2l.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2m.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2n.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2o.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2p.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2q.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2r.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2s.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2t.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2u.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2v.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2w.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2x.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2y.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2z.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "30.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "31.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "32.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "33.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "34.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "35.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "36.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "37.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "38.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "39.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3a.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3b.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3c.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3d.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3e.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3f.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3g.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3h.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3i.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3j.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3k.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3l.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3m.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3n.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3o.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3p.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3q.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3r.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3s.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3t.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3u.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3v.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3w.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3x.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3y.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3z.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "40.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "41.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "42.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "43.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "44.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "45.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "46.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "47.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "48.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "49.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4a.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4b.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4c.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4d.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4e.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4f.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4g.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4h.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4i.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4j.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4k.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4l.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4m.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4n.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4o.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4p.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4q.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4r.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4s.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4t.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4u.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4v.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4w.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4x.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4y.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4z.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "50.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "51.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "52.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "53.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "54.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "55.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "56.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "57.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "58.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "59.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5a.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5b.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5c.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5d.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5e.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5f.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5g.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5h.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5i.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5j.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5k.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5l.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5m.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5n.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5o.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5p.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5q.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5r.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5s.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5t.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5u.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5v.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5w.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5x.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5y.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5z.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "60.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "61.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "62.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "63.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "64.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "65.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "66.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "67.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "68.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "69.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6a.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6b.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6c.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6d.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6e.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6f.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6g.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6h.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6i.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6j.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6k.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6l.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6m.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6n.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6o.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6p.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6q.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6r.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6s.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6t.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6u.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6v.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6w.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6x.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6y.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6z.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "70.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "71.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "72.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "73.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "74.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "75.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "76.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "77.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "78.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "79.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7a.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7b.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7c.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7d.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7e.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7f.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7g.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7h.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7i.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7j.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7k.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7l.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7m.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7n.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7o.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7p.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7q.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7r.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7s.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7t.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7u.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7v.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7w.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7x.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7y.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7z.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "80.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "81.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "82.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "83.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "84.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "85.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "86.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "87.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "88.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "89.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8a.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8b.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8c.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8d.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8e.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8f.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8g.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8h.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8i.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8j.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8k.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8l.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8m.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8n.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8o.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8p.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8q.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8r.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8s.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8t.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8u.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8v.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8w.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8x.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8y.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8z.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "90.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "91.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "92.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "93.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "94.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "95.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "96.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "97.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "98.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "99.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9a.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9b.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9c.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9d.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9e.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9f.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9g.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9h.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9i.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9j.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9k.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9l.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9m.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9n.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9o.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9p.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9q.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9r.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9s.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9t.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9u.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9v.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9w.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9x.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9y.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9z.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "a0.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "a1.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "a2.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "a3.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "a4.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "a5.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "a6.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "a7.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "a8.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "a9.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "aa.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ab.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ac.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ad.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ae.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "af.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ag.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ah.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ai.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "aj.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ak.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "al.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "am.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "an.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ao.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ap.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "aq.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ar.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "as.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "at.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "au.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "av.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "aw.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ax.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ay.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "az.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "b0.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "b1.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "b2.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "b3.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "b4.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "b5.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "b6.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "b7.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "b8.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "b9.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ba.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bb.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bc.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bd.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "be.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bf.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bg.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bh.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bi.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bj.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bk.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bl.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bm.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bn.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bo.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bp.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bq.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "br.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bs.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bt.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bu.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bv.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bw.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bx.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "by.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bz.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "c0.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "c1.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "c2.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "c3.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "c4.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "c5.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "c6.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "c7.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "c8.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "c9.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ca.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cb.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cc.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cd.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ce.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cf.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cg.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ch.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ci.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cj.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ck.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cl.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cm.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cn.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "co.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cp.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cq.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cr.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cs.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ct.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cu.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cv.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cw.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cx.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cy.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cz.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "d0.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "d1.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "d2.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "d3.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "d4.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "d5.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "d6.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "d7.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "d8.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "d9.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "da.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "db.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dc.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dd.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "de.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "df.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dg.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dh.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "di.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dj.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dk.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dl.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dm.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dn.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "do.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dp.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dq.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dr.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ds.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dt.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "du.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dv.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dw.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dx.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dy.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dz.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "e0.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "e1.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "e2.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "e3.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "e4.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "e5.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "e6.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "e7.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "e8.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "e9.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ea.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "eb.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ec.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ed.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ee.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ef.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "eg.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "eh.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ei.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ej.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ek.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "el.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "em.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "en.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "eo.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ep.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "eq.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "er.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "es.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "et.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "eu.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ev.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ew.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ex.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ey.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ez.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "f0.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "f1.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "f2.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "f3.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "f4.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "f5.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "f6.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "f7.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "f8.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "f9.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fa.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fb.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fc.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fd.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fe.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ff.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fg.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fh.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fi.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fj.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fk.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fl.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fm.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fn.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fo.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fp.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fq.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fr.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fs.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ft.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fu.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fv.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fw.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fx.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fy.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fz.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "g0.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "g1.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "g2.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "g3.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "g4.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "g5.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "g6.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "g7.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "g8.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "g9.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ga.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gb.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gc.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gd.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ge.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gf.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gg.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gh.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gi.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gj.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gk.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gl.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gm.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gn.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "go.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gp.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gq.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gr.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gs.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gt.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gu.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gv.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gw.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gx.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gy.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gz.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "h0.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "h1.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "h2.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "h3.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "h4.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "h5.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "h6.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "h7.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "h8.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "h9.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ha.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hb.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hc.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hd.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "he.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hf.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hg.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hh.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hi.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hj.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hk.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hl.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hm.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hn.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ho.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hp.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hq.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hr.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hs.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ht.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hu.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hv.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hw.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hx.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hy.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hz.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "i0.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "i1.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "i2.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "i3.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "i4.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "i5.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "i6.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "i7.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "i8.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "i9.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ia.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ib.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ic.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "id.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ie.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "if.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ig.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ih.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ii.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ij.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ik.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "il.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "im.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "in.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "io.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ip.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "iq.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ir.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "is.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "it.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "iu.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "iv.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "iw.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ix.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "iy.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "iz.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "j0.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "j1.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "j2.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "j3.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "j4.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "j5.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "j6.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "j7.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "j8.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "j9.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ja.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jb.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jc.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jd.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "je.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jf.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jg.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jh.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ji.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jj.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jk.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jl.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jm.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jn.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jo.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jp.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jq.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jr.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "js.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jt.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ju.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jv.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jw.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jx.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jy.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jz.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "k0.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "k1.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "k2.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "k3.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "k4.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "k5.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "k6.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "k7.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "k8.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "k9.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ka.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kb.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kc.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kd.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ke.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kf.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kg.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kh.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ki.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kj.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kk.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kl.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "km.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kn.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ko.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kp.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kq.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kr.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ks.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kt.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ku.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kv.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kw.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kx.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ky.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kz.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "l0.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "l1.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "l2.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "l3.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "l4.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "l5.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "l6.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "l7.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "l8.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "l9.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "la.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lb.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lc.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ld.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "le.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lf.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lg.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lh.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "li.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lj.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lk.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ll.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lm.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ln.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lo.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lp.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lq.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lr.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ls.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lt.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lu.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lv.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lw.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lx.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ly.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lz.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "m0.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "m1.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "m2.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "m3.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "m4.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "m5.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "m6.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "m7.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "m8.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "m9.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ma.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mb.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mc.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "md.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "me.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mf.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mg.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mh.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mi.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mj.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mk.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ml.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mm.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mn.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mo.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mp.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mq.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mr.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ms.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mt.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mu.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mv.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mw.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mx.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "my.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mz.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "n0.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "n1.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "n2.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "n3.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "n4.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "n5.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "n6.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "n7.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "n8.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "n9.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "na.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nb.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nc.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nd.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ne.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nf.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ng.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nh.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ni.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nj.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nk.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nl.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nm.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nn.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "no.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "np.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nq.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nr.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ns.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nt.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nu.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nv.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nw.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nx.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ny.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nz.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "o0.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "o1.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "o2.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "o3.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "o4.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "o5.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "o6.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "o7.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "o8.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "o9.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "oa.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ob.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "oc.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "od.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "oe.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "of.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "og.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "oh.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "oi.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "oj.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ok.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ol.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "om.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "on.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "oo.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "op.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "oq.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "or.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "os.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ot.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ou.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ov.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ow.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ox.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "oy.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "oz.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "p0.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "p1.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "p2.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "p3.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "p4.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "p5.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "p6.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "p7.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "p8.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "p9.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pa.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pb.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pc.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pd.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pe.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pf.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pg.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ph.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pi.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pj.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pk.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pl.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pm.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pn.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "po.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pp.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pq.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pr.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ps.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pt.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pu.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pv.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pw.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "px.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "py.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pz.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "q0.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "q1.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "q2.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "q3.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "q4.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "q5.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "q6.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "q7.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "q8.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "q9.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qa.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qb.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qc.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qd.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qe.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qf.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qg.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qh.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qi.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qj.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qk.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ql.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qm.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qn.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qo.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qp.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qq.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qr.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qs.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qt.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qu.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qv.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qw.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qx.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qy.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qz.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "r0.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "r1.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "r2.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "r3.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "r4.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "r5.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "r6.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "r7.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "r8.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "r9.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ra.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rb.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rc.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rd.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "re.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rf.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rg.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rh.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ri.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rj.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rk.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rl.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rm.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rn.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ro.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rp.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rq.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rr.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rs.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rt.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ru.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rv.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rw.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rx.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ry.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rz.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "s0.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "s1.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "s2.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "s3.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "s4.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "s5.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "s6.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "s7.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "s8.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "s9.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sa.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sb.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sc.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sd.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "se.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sf.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sg.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sh.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "si.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sj.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sk.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sl.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sm.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sn.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "so.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sp.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sq.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sr.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ss.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "st.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "su.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sv.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sw.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sx.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sy.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sz.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "t0.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "t1.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "t2.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "t3.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "t4.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "t5.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "t6.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "t7.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "t8.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "t9.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ta.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tb.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tc.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "td.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "te.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tf.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tg.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "th.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ti.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tj.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tk.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tl.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tm.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tn.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "to.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tp.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tq.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tr.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ts.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tt.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tu.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tv.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tw.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tx.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ty.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tz.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "u0.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "u1.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "u2.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "u3.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "u4.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "u5.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "u6.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "u7.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "u8.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "u9.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ua.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ub.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "uc.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ud.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ue.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "uf.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ug.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "uh.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ui.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "uj.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "uk.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ul.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "um.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "un.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "uo.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "up.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "uq.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ur.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "us.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ut.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "uu.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "uv.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "uw.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ux.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "uy.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "uz.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "v0.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "v1.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "v2.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "v3.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "v4.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "v5.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "v6.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "v7.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "v8.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "v9.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "va.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vb.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vc.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vd.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ve.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vf.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vg.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vh.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vi.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vj.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vk.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vl.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vm.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vn.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vo.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vp.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vq.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vr.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vs.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vt.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vu.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vv.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vw.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vx.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vy.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vz.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "w0.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "w1.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "w2.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "w3.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "w4.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "w5.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "w6.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "w7.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "w8.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "w9.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wa.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wb.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wc.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wd.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "we.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wf.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wg.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wh.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wi.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wj.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wk.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wl.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wm.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wn.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wo.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wp.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wq.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wr.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ws.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wt.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wu.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wv.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ww.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wx.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wy.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wz.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "x0.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "x1.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "x2.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "x3.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "x4.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "x5.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "x6.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "x7.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "x8.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "x9.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xa.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xb.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xc.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xd.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xe.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xf.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xg.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xh.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xi.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xj.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xk.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xl.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xm.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xn.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xo.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xp.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xq.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xr.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xs.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xt.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xu.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xv.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xw.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xx.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xy.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xz.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "y0.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "y1.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "y2.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "y3.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "y4.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "y5.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "y6.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "y7.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "y8.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "y9.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ya.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yb.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yc.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yd.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ye.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yf.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yg.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yh.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yi.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yj.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yk.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yl.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ym.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yn.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yo.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yp.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yq.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yr.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ys.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yt.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yu.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yv.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yw.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yx.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yy.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yz.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "z0.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "z1.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "z2.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "z3.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "z4.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "z5.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "z6.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "z7.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "z8.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "z9.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "za.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zb.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zc.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zd.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ze.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zf.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zg.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zh.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zi.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zj.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zk.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zl.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zm.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zn.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zo.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zp.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zq.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zr.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zs.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zt.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zu.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zv.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zw.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zx.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zy.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zz.icu",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    }
+  ]
+}

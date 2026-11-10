@@ -1,0 +1,7784 @@
+{
+  "checkedAt": "2026-11-09T09:14:15.861Z",
+  "requested": 1296,
+  "checked": 1296,
+  "complete": true,
+  "results": [
+    {
+      "name": "00.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "01.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "02.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "03.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "04.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "05.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "06.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "07.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "08.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "09.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0a.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0b.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0c.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "0d.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "0e.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0f.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0g.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "0h.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "0i.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0j.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0k.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "0l.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0m.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0n.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0o.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "0p.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "0q.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0r.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "0s.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0t.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "0u.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0v.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0w.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0x.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0y.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0z.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "10.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "11.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "12.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "13.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "14.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "15.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "16.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "17.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "18.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "19.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1a.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1b.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1c.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "1d.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "1e.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "1f.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1g.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1h.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "1i.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "1j.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1k.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "1l.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1m.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "1n.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "1o.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1p.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "1q.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1r.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1s.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1t.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "1u.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "1v.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "1w.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1x.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "1y.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1z.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "20.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "21.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "22.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "23.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "24.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "25.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "26.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "27.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "28.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "29.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "2a.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "2b.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "2c.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2d.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "2e.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "2f.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "2g.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2h.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2i.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2j.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "2k.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2l.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2m.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "2n.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "2o.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2p.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2q.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2r.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "2s.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "2t.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "2u.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "2v.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2w.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "2x.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2y.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2z.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "30.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "31.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "32.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "33.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "34.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "35.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "36.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "37.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "38.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "39.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3a.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "3b.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "3c.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3d.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3e.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3f.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "3g.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3h.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "3i.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3j.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "3k.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "3l.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "3m.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3n.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "3o.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3p.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "3q.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3r.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3s.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3t.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3u.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3v.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3w.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "3x.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "3y.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3z.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "40.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "41.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "42.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "43.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "44.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "45.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "46.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "47.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "48.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "49.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4a.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "4b.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "4c.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "4d.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4e.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "4f.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4g.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "4h.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4i.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "4j.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4k.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "4l.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "4m.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "4n.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "4o.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4p.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "4q.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4r.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "4s.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4t.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4u.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "4v.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4w.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "4x.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "4y.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4z.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "50.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "51.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "52.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "53.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "54.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "55.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "56.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "57.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "58.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "59.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5a.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5b.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "5c.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5d.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5e.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "5f.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5g.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5h.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "5i.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5j.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5k.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5l.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5m.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5n.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5o.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5p.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "5q.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5r.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5s.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5t.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "5u.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5v.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5w.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5x.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "5y.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5z.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "60.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "61.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "62.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "63.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "64.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "65.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "66.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "67.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "68.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "69.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6a.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6b.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "6c.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6d.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6e.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6f.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6g.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "6h.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6i.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6j.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "6k.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6l.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "6m.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6n.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "6o.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6p.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6q.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6r.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6s.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6t.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6u.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6v.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6w.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6x.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6y.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6z.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "70.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "71.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "72.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "73.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "74.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "75.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "76.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "77.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "78.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "79.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7a.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "7b.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7c.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "7d.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7e.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7f.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "7g.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "7h.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7i.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "7j.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7k.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7l.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "7m.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7n.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "7o.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7p.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7q.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "7r.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "7s.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7t.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7u.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7v.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7w.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "7x.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7y.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "7z.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "80.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "81.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "82.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "83.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "84.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "85.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "86.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "87.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "88.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "89.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8a.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "8b.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "8c.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8d.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8e.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "8f.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "8g.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8h.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8i.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "8j.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8k.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "8l.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8m.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8n.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8o.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8p.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8q.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8r.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "8s.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8t.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "8u.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "8v.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8w.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8x.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "8y.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8z.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "90.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "91.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "92.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "93.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "94.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "95.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "96.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "97.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "98.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "99.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9a.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "9b.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9c.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9d.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "9e.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "9f.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "9g.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9h.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "9i.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "9j.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9k.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "9l.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9m.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "9n.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9o.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9p.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9q.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9r.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9s.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9t.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "9u.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "9v.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9w.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "9x.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9y.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "9z.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "a0.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "a1.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "a2.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "a3.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "a4.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "a5.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "a6.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "a7.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "a8.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "a9.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "aa.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "ab.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ac.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ad.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ae.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "af.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ag.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ah.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ai.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "aj.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ak.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "al.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "am.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "an.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ao.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ap.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "aq.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ar.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "as.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "at.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "au.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "av.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "aw.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ax.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ay.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "az.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "b0.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "b1.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "b2.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "b3.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "b4.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "b5.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "b6.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "b7.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "b8.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "b9.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "ba.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bb.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bc.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bd.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "be.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bf.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bg.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bh.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bi.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bj.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bk.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bl.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bm.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bn.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bo.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bp.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bq.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "br.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bs.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bt.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bu.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bv.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bw.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bx.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "by.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bz.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "c0.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "c1.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "c2.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "c3.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "c4.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "c5.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "c6.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "c7.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "c8.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "c9.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "ca.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cb.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cc.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cd.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ce.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cf.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cg.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ch.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ci.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cj.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ck.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "cl.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cm.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cn.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "co.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cp.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cq.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cr.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cs.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ct.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cu.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cv.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cw.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cx.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cy.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cz.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "d0.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "d1.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "d2.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "d3.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "d4.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "d5.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "d6.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "d7.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "d8.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "d9.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "da.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "db.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dc.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dd.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "de.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "df.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dg.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dh.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "di.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dj.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dk.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dl.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dm.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dn.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "do.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dp.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "dq.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dr.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ds.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dt.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "du.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dv.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dw.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dx.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dy.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dz.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "e0.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "e1.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "e2.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "e3.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "e4.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "e5.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "e6.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "e7.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "e8.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "e9.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "ea.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "eb.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ec.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ed.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ee.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ef.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "eg.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "eh.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ei.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ej.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ek.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "el.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "em.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "en.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "eo.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ep.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "eq.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "er.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "es.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "et.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "eu.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ev.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ew.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ex.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ey.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ez.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "f0.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "f1.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "f2.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "f3.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "f4.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "f5.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "f6.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "f7.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "f8.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "f9.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "fa.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fb.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fc.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fd.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fe.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ff.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fg.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fh.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fi.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fj.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fk.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fl.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fm.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fn.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fo.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fp.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fq.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fr.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fs.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ft.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fu.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fv.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fw.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "fx.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fy.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "fz.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "g0.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "g1.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "g2.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "g3.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "g4.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "g5.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "g6.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "g7.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "g8.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "g9.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ga.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gb.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gc.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gd.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ge.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gf.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gg.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gh.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gi.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gj.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gk.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gl.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gm.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gn.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "go.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "gp.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gq.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gr.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gs.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gt.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gu.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gv.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gw.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gx.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gy.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gz.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "h0.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "h1.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "h2.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "h3.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "h4.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "h5.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "h6.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "h7.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "h8.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "h9.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ha.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hb.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hc.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hd.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "he.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hf.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hg.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hh.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hi.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hj.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hk.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "hl.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hm.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hn.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ho.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hp.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hq.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hr.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hs.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ht.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hu.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "hv.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hw.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hx.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "hy.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hz.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "i0.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "i1.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "i2.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "i3.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "i4.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "i5.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "i6.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "i7.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "i8.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "i9.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ia.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ib.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ic.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "id.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ie.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "if.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ig.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ih.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ii.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ij.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ik.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "il.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "im.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "in.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "io.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ip.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "iq.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ir.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "is.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "it.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "iu.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "iv.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "iw.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ix.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "iy.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "iz.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "j0.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "j1.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "j2.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "j3.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "j4.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "j5.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "j6.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "j7.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "j8.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "j9.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "ja.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jb.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jc.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jd.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "je.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jf.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jg.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jh.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ji.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jj.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jk.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jl.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jm.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jn.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jo.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jp.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jq.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "jr.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "js.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jt.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ju.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jv.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jw.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jx.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jy.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jz.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "k0.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "k1.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "k2.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "k3.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "k4.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "k5.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "k6.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "k7.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "k8.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "k9.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "ka.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kb.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kc.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kd.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ke.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kf.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kg.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kh.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ki.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kj.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kk.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kl.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "km.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kn.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ko.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kp.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kq.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kr.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ks.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kt.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ku.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kv.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kw.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kx.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ky.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kz.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "l0.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "l1.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "l2.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "l3.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "l4.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "l5.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "l6.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "l7.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "l8.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "l9.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "la.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lb.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lc.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ld.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "le.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lf.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lg.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lh.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "li.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lj.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lk.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ll.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lm.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ln.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lo.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lp.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lq.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lr.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ls.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lt.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lu.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lv.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lw.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lx.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ly.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lz.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "m0.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "m1.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "m2.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "m3.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "m4.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "m5.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "m6.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "m7.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "m8.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "m9.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "ma.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mb.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mc.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "md.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "me.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mf.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mg.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mh.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mi.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mj.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mk.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ml.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mm.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mn.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mo.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mp.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mq.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mr.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ms.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mt.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mu.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mv.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mw.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mx.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "my.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mz.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "n0.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "n1.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "n2.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "n3.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "n4.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "n5.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "n6.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "n7.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "n8.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "n9.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "na.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nb.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nc.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nd.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ne.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nf.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ng.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "nh.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ni.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nj.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nk.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nl.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nm.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nn.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "no.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "np.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nq.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nr.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ns.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nt.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "nu.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nv.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nw.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nx.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ny.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nz.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "o0.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "o1.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "o2.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "o3.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "o4.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "o5.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "o6.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "o7.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "o8.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "o9.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "oa.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ob.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "oc.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "od.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "oe.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "of.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "og.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "oh.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "oi.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "oj.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ok.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ol.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "om.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "on.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "oo.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "op.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "oq.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "or.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "os.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ot.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ou.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ov.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ow.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ox.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "oy.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "oz.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "p0.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "p1.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "p2.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "p3.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "p4.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "p5.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "p6.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "p7.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "p8.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "p9.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "pa.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pb.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pc.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pd.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pe.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pf.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pg.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ph.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pi.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pj.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pk.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pl.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pm.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pn.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "po.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pp.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pq.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pr.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ps.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pt.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pu.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pv.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pw.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "px.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "py.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "pz.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "q0.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "q1.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "q2.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "q3.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "q4.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "q5.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "q6.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "q7.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "q8.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "q9.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "qa.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qb.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qc.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qd.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qe.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qf.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qg.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qh.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qi.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qj.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qk.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ql.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qm.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qn.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qo.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qp.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qq.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qr.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qs.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qt.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qu.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qv.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qw.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qx.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qy.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "qz.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "r0.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "r1.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "r2.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "r3.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "r4.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "r5.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "r6.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "r7.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "r8.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "r9.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "ra.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rb.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rc.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rd.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "re.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rf.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rg.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rh.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ri.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rj.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rk.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rl.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rm.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rn.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ro.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rp.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rq.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rr.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rs.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rt.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ru.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rv.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rw.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rx.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ry.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "rz.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "s0.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "s1.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "s2.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "s3.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "s4.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "s5.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "s6.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "s7.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "s8.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "s9.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sa.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sb.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sc.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sd.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "se.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sf.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sg.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sh.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "si.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sj.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sk.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sl.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sm.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sn.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "so.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sp.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sq.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sr.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ss.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "st.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "su.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sv.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sw.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sx.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sy.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "sz.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "t0.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "t1.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "t2.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "t3.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "t4.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "t5.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "t6.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "t7.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "t8.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "t9.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ta.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tb.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tc.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "td.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "te.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tf.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tg.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "th.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ti.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tj.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tk.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tl.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tm.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tn.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "to.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tp.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tq.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tr.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ts.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tt.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tu.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tv.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tw.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tx.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ty.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "tz.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "u0.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "u1.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "u2.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "u3.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "u4.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "u5.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "u6.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "u7.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "u8.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "u9.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "ua.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ub.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "uc.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ud.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ue.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "uf.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ug.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "uh.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ui.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "uj.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "uk.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ul.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "um.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "un.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "uo.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "up.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "uq.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ur.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "us.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ut.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "uu.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "uv.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "uw.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ux.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "uy.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "uz.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "v0.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "v1.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "v2.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "v3.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "v4.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "v5.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "v6.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "v7.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "v8.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "v9.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "va.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vb.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vc.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vd.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ve.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vf.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vg.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vh.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vi.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vj.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vk.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vl.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vm.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vn.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vo.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vp.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vq.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vr.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vs.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vt.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vu.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vv.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vw.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vx.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vy.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "vz.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "w0.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "w1.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "w2.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "w3.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "w4.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "w5.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "w6.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "w7.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "w8.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "w9.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wa.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wb.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wc.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wd.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "we.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wf.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wg.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wh.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wi.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wj.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wk.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wl.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wm.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wn.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wo.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wp.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wq.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wr.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ws.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wt.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wu.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wv.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ww.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wx.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wy.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "wz.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "x0.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "x1.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "x2.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "x3.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "x4.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "x5.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "x6.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "x7.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "x8.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "x9.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "xa.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xb.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "xc.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xd.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xe.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xf.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xg.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xh.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xi.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xj.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xk.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xl.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xm.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xn.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xo.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xp.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xq.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xr.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xs.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xt.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xu.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xv.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xw.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xx.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "xy.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "xz.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "y0.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "y1.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "y2.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "y3.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "y4.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "y5.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "y6.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "y7.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "y8.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "y9.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ya.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yb.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yc.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yd.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ye.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yf.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yg.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yh.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yi.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yj.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yk.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yl.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ym.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "yn.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yo.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yp.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yq.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yr.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ys.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yt.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yu.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yv.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yw.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yx.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "yy.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "yz.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "z0.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "z1.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "z2.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "z3.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "z4.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "z5.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "z6.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "z7.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "z8.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "z9.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "za.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zb.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zc.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zd.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ze.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "zf.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zg.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zh.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zi.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zj.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zk.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zl.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zm.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zn.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zo.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zp.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zq.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zr.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zs.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zt.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "zu.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zv.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zw.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zx.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zy.xyz",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "zz.xyz",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    }
+  ]
+}

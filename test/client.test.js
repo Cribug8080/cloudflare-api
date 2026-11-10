@@ -37,6 +37,38 @@ test('throws CloudflareError on API failure', async () => {
   await assert.rejects(cf.listZones(), (e) => e instanceof CloudflareError && e.status === 403 && /9109/.test(e.message));
 });
 
+test('checkDomains sends 20 domains per request', async () => {
+  const domains = Array.from({ length: 45 }, (_, i) => `d${i}.com`);
+  const f = mockFetch(Array.from({ length: 3 }, () => ({ body: { success: true, result: [] } })));
+  const cf = new Cloudflare({ apiToken: 'x', fetch: f });
+  await cf.checkDomains('acct', domains);
+  const sizes = f.calls.map((c) => JSON.parse(c.init.body).domains.length);
+  assert.deepEqual(sizes, [20, 20, 5]);
+  assert.equal(f.calls[0].url, 'https://api.cloudflare.com/client/v4/accounts/acct/registrar/domain-check');
+  assert.equal(f.calls[0].init.method, 'POST');
+});
+
+test('retries on 429 honoring Retry-After, then succeeds', async () => {
+  const waits = [];
+  let n = 0;
+  const f = async () =>
+    n++ < 2
+      ? new Response('Too Many Requests', { status: 429, headers: { 'retry-after': '3' } })
+      : new Response(JSON.stringify({ success: true, result: 'ok' }));
+  const cf = new Cloudflare({ apiToken: 'x', fetch: f, sleep: async (ms) => waits.push(ms) });
+  assert.equal(await cf.request('GET', '/x'), 'ok');
+  assert.equal(n, 3);
+  assert.ok(waits.every((w) => w >= 3000 && w < 3300));
+});
+
+test('gives up after maxRetries on persistent 429', async () => {
+  let n = 0;
+  const f = async () => (n++, new Response('nope', { status: 429 }));
+  const cf = new Cloudflare({ apiToken: 'x', fetch: f, maxRetries: 2, sleep: async () => {} });
+  await assert.rejects(cf.request('GET', '/x'), (e) => e.status === 429);
+  assert.equal(n, 3);
+});
+
 test('requires credentials', () => {
   assert.throws(() => new Cloudflare({}));
 });

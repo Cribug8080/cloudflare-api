@@ -1,0 +1,5168 @@
+{
+  "checkedAt": "2026-11-09T08:59:36.766Z",
+  "requested": 1296,
+  "complete": false,
+  "error": "HTTP 429: non-JSON response",
+  "results": [
+    {
+      "name": "00.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "01.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "02.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "03.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "04.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "05.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "06.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "07.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "08.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "09.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0a.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0b.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0c.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0d.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0e.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0f.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0g.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0h.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0i.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0j.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0k.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0l.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0m.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0n.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0o.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0p.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0q.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0r.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0s.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0t.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0u.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0v.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0w.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0x.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0y.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "0z.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "10.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "11.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "12.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "13.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "14.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "15.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "16.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "17.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "18.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "19.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1a.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1b.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1c.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1d.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1e.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1f.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1g.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1h.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1i.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1j.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1k.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1l.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1m.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1n.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1o.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1p.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1q.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1r.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1s.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1t.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1u.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1v.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1w.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1x.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1y.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "1z.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "20.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "21.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "22.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "23.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "24.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "25.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "26.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "27.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "28.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "29.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2a.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2b.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2c.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2d.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2e.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2f.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2g.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2h.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2i.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2j.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2k.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2l.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2m.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2n.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2o.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2p.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2q.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2r.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2s.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2t.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2u.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2v.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2w.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2x.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2y.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "2z.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "30.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "31.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "32.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "33.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "34.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "35.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "36.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "37.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "38.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "39.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3a.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3b.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3c.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3d.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3e.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3f.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3g.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3h.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3i.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3j.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3k.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3l.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3m.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3n.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3o.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3p.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3q.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3r.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3s.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3t.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3u.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3v.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3w.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3x.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3y.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "3z.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "40.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "41.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "42.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "43.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "44.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "45.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "46.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "47.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "48.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "49.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4a.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4b.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4c.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4d.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4e.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4f.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4g.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4h.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4i.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4j.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4k.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4l.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4m.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4n.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4o.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4p.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4q.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4r.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4s.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4t.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4u.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4v.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4w.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4x.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4y.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "4z.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "50.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "51.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "52.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "53.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "54.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "55.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "56.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "57.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "58.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "59.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5a.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5b.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5c.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5d.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5e.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5f.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5g.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5h.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5i.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5j.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5k.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5l.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5m.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5n.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5o.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5p.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5q.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5r.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5s.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5t.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5u.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5v.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5w.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5x.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5y.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "5z.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "60.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "61.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "62.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "63.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "64.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "65.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "66.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "67.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "68.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "69.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6a.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6b.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6c.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6d.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6e.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6f.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6g.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6h.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6i.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6j.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6k.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6l.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6m.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6n.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6o.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6p.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6q.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6r.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6s.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6t.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6u.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6v.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6w.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6x.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6y.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "6z.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "70.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "71.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "72.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "73.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "74.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "75.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "76.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "77.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "78.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "79.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7a.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7b.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7c.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7d.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7e.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7f.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7g.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7h.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7i.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7j.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7k.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7l.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7m.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7n.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7o.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7p.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7q.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7r.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7s.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7t.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7u.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7v.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7w.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7x.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7y.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "7z.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "80.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "81.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "82.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "83.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "84.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "85.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "86.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "87.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "88.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "89.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8a.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8b.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8c.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8d.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8e.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8f.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8g.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8h.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8i.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8j.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8k.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8l.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8m.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8n.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8o.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8p.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8q.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8r.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8s.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8t.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8u.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8v.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8w.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8x.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8y.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "8z.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "90.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "91.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "92.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "93.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "94.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "95.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "96.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "97.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "98.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "99.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9a.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9b.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9c.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9d.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9e.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9f.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9g.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9h.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9i.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9j.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9k.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9l.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9m.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9n.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9o.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9p.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9q.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9r.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9s.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9t.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9u.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9v.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9w.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9x.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9y.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "9z.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "a0.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "a1.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "a2.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "a3.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "a4.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "a5.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "a6.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "a7.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "a8.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "a9.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "aa.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ab.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ac.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ad.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ae.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "af.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ag.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ah.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ai.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "aj.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ak.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "al.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "am.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "an.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ao.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ap.link",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "aq.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ar.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "as.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "at.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "au.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "av.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "aw.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ax.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ay.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "az.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "b0.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "b1.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "b2.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "b3.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "b4.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "b5.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "b6.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "b7.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "b8.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "b9.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ba.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bb.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bc.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bd.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "be.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bf.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bg.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bh.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bi.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bj.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bk.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bl.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bm.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bn.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bo.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bp.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bq.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "br.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bs.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bt.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bu.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bv.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bw.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bx.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "by.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "bz.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "c0.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "c1.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "c2.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "c3.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "c4.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "c5.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "c6.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "c7.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "c8.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "c9.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ca.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cb.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cc.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cd.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ce.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cf.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cg.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ch.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ci.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cj.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ck.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cl.link",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "cm.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cn.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "co.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cp.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cq.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cr.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cs.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ct.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cu.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cv.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cw.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cx.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cy.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "cz.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "d0.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "d1.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "d2.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "d3.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "d4.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "d5.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "d6.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "d7.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "d8.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "d9.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "da.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "db.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dc.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dd.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "de.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "df.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dg.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dh.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "di.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dj.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dk.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dl.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dm.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dn.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "do.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dp.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dq.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dr.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ds.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dt.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "du.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dv.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dw.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dx.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dy.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "dz.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "e0.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "e1.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "e2.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "e3.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "e4.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "e5.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "e6.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "e7.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "e8.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "e9.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ea.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "eb.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ec.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ed.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ee.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ef.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "eg.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "eh.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ei.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ej.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ek.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "el.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "em.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "en.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "eo.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ep.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "eq.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "er.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "es.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "et.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "eu.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ev.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ew.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ex.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ey.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ez.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "f0.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "f1.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "f2.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "f3.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "f4.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "f5.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "f6.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "f7.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "f8.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "f9.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fa.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fb.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fc.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fd.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fe.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ff.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fg.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fh.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fi.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fj.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fk.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fl.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fm.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fn.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fo.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fp.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fq.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fr.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fs.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ft.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fu.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fv.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fw.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fx.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fy.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "fz.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "g0.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "g1.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "g2.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "g3.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "g4.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "g5.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "g6.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "g7.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "g8.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "g9.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ga.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gb.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gc.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gd.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ge.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gf.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gg.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gh.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gi.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gj.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gk.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gl.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gm.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gn.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "go.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gp.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gq.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gr.link",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "gs.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gt.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gu.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gv.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gw.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gx.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gy.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "gz.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "h0.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "h1.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "h2.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "h3.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "h4.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "h5.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "h6.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "h7.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "h8.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "h9.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ha.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hb.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hc.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hd.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "he.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hf.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hg.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hh.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hi.link",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "hj.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hk.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hl.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hm.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hn.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ho.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hp.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hq.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hr.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hs.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ht.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hu.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hv.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hw.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hx.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hy.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "hz.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "i0.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "i1.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "i2.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "i3.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "i4.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "i5.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "i6.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "i7.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "i8.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "i9.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ia.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ib.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ic.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "id.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ie.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "if.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ig.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ih.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ii.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ij.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ik.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "il.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "im.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "in.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "io.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ip.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "iq.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ir.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "is.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "it.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "iu.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "iv.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "iw.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ix.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "iy.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "iz.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "j0.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "j1.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "j2.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "j3.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "j4.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "j5.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "j6.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "j7.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "j8.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "j9.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ja.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jb.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jc.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jd.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "je.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jf.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jg.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jh.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ji.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jj.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jk.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jl.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jm.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jn.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jo.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jp.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jq.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jr.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "js.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jt.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ju.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jv.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jw.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jx.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jy.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "jz.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "k0.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "k1.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "k2.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "k3.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "k4.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "k5.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "k6.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "k7.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "k8.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "k9.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ka.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kb.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kc.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kd.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ke.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kf.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kg.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kh.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ki.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kj.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kk.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kl.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "km.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kn.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ko.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kp.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kq.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kr.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ks.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kt.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ku.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kv.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kw.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kx.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ky.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "kz.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "l0.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "l1.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "l2.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "l3.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "l4.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "l5.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "l6.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "l7.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "l8.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "l9.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "la.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lb.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lc.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ld.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "le.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lf.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lg.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lh.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "li.link",
+      "registrable": false,
+      "tier": "standard",
+      "reason": "domain_unavailable"
+    },
+    {
+      "name": "lj.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lk.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ll.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lm.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ln.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lo.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lp.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lq.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lr.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ls.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lt.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lu.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lv.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lw.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lx.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ly.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "lz.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "m0.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "m1.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "m2.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "m3.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "m4.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "m5.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "m6.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "m7.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "m8.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "m9.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ma.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mb.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mc.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "md.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "me.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mf.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mg.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mh.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mi.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mj.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mk.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ml.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mm.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mn.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mo.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mp.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mq.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mr.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ms.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mt.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mu.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mv.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mw.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mx.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "my.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "mz.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "n0.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "n1.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "n2.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "n3.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "n4.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "n5.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "n6.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "n7.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "n8.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "n9.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "na.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nb.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nc.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nd.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ne.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nf.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ng.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nh.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ni.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nj.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nk.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nl.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nm.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nn.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "no.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "np.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nq.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nr.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "ns.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nt.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nu.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    },
+    {
+      "name": "nv.link",
+      "registrable": false,
+      "tier": "premium",
+      "reason": "domain_premium"
+    }
+  ]
+}
